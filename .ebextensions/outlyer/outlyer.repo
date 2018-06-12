@@ -1,0 +1,6 @@
+[outlyer]
+name=Outlyer Agent
+baseurl=https://packages.outlyer.com/stable/el6/\$basearch/
+enabled=1
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-outlyer
